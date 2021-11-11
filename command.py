@@ -1,0 +1,1 @@
+command = ['off', 'document', 'dir', 'ls', 'clear', 'stopwatch', 'calculator', 'reverse word', 'SYSTEM', 'restart', 'setting the theme for the text', 'background color setting', 'rename', 'create folder', 'create file', 'remove folder', 'remove file', 'edit file', 'clock']
